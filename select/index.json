@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Oh wow!",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-03-05T13:21:13.070207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve (with J. Cole feat. Zoink Gang, KEY! & Maxo Kream)",
+      "artist": "Dreamville feat. J. Cole, Zoink Gang, KEY! & Maxo Kream",
+      "has_synced": true,
+      "path": "select/01_Oh_Wow...Swerve_(with_J._Cole_feat._Zoink_Gang,_KEY!_&_Maxo_Kream)_Dreamville_feat._J._Cole,_Zoink_Gang,_KEY!_&_Maxo_Kream.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "Dreamville; J. Cole; Zoink Gang; Key!; Maxo Kream",
+      "has_synced": true,
+      "path": "select/02_Oh_Wow...Swerve_Dreamville;_J._Cole;_Zoink_Gang;_Key!;_Maxo_Kream.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "J. Cole, Zoink Gang, Key! & Maxo Kream",
+      "has_synced": true,
+      "path": "select/03_Oh_Wow...Swerve_J._Cole,_Zoink_Gang,_Key!_&_Maxo_Kream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/04_Oh_Wow...Swerve_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oh Wow",
+      "artist": "Leyya",
+      "has_synced": false,
+      "path": "select/05_Oh_Wow_Leyya.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "Dreamville feat. Zoink Gang, Key! & Maxo Kream",
+      "has_synced": true,
+      "path": "select/06_Oh_Wow...Swerve_Dreamville_feat._Zoink_Gang,_Key!_&_Maxo_Kream.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "Dreamville, J. Cole, Zoink Gang, Key!, Maxo Kream",
+      "has_synced": true,
+      "path": "select/07_Oh_Wow...Swerve_Dreamville,_J._Cole,_Zoink_Gang,_Key!,_Maxo_Kream.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve (feat. J. Cole, Zoink Gang, Key! & Maxo Kream)",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/08_Oh_Wow...Swerve_(feat._J._Cole,_Zoink_Gang,_Key!_&_Maxo_Kream)_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Wow!!!",
+      "artist": "Baby Bash",
+      "has_synced": false,
+      "path": "select/09_Oh_Wow!!!_Baby_Bash.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oh, Wow It's You",
+      "artist": "Steely Dan",
+      "has_synced": false,
+      "path": "select/10_Oh,_Wow_It's_You_Steely_Dan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oh Wow…Swerve (feat. Zoink Gang, Key! & Maxo Kream)",
+      "artist": "Dreamville with J. Cole",
+      "has_synced": true,
+      "path": "select/11_Oh_Wow...Swerve_(feat._Zoink_Gang,_Key!_&_Maxo_Kream)_Dreamville_with_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "Dreamville & J. Cole Ft. Zoink Gang, KEY! & Maxo Kream",
+      "has_synced": true,
+      "path": "select/12_Oh_Wow...Swerve_Dreamville_&_J._Cole_Ft._Zoink_Gang,_KEY!_&_Maxo_Kream.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve (feat. Zoink Gang, KEY! & Maxo Kream)",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/13_Oh_Wow...Swerve_(feat._Zoink_Gang,_KEY!_&_Maxo_Kream)_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve (feat. Zoink Gang, KEY! & Maxo Kream)",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/14_Oh_Wow...Swerve_(feat._Zoink_Gang,_KEY!_&_Maxo_Kream)_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "OH WOW",
+      "artist": "Dro Kenji",
+      "has_synced": false,
+      "path": "select/15_OH_WOW_Dro_Kenji.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Oh Wow (feat. Trippie Redd)",
+      "artist": "Cuban Doll",
+      "has_synced": false,
+      "path": "select/16_Oh_Wow_(feat._Trippie_Redd)_Cuban_Doll.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve (feat. Zoink Gang, KEY! & Maxo Kream)",
+      "artist": "Dreamville & J. Cole",
+      "has_synced": true,
+      "path": "select/17_Oh_Wow...Swerve_(feat._Zoink_Gang,_KEY!_&_Maxo_Kream)_Dreamville_&_J._Cole.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Oh Wow...Swerve",
+      "artist": "Dreamville, J. Cole",
+      "has_synced": true,
+      "path": "select/18_Oh_Wow...Swerve_Dreamville,_J._Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oh wow!",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_Oh_wow!_メガテラ・ゼロ.txt"
+    }
+  ]
+}
