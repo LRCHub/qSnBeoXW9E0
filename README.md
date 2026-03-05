@@ -1,0 +1,69 @@
+# メガテラ・ゼロ – Oh wow!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+oh I'll be back.必ず
+So wait for me.
+oh 君だけの 君だけの
+Special 特別な
+愛 I for you
+そう 君だけに
+KIMIDAKENI
+「What time is it?」
+時計の針ばかり 気にするあなた
+手を放す暇はないでしょ
+繋ぎとめて
+笑顔の下 この感情は
+ほらふつふつと
+アタシも心に狼を飼う一人の狩人
+oh I'll be back.必ず
+So wait for me.
+oh 君だけの 君だけの
+Special 特別な
+愛 I for you
+そう 君だけに
+KIMIDAKENI
+WOW!
+Bad mood?
+当たり前でしょう
+自覚はないのか？
+だけど今更でも気づいてくれて
+少しうれしい
+では、今から仕切り直し
+ほら手を引いてよ
+私がごまかしている今が
+あなたのラストチャンス
+oh I'll be back.必ず
+So wait for me.
+oh 君だけの 君だけの
+Special 特別な
+愛 I for you
+そう 君だけに
+KIMIDAKENI
+曖昧な言葉は
+None at this time
+oh 今は無し 今は無し
+最前線から今 伝えるわ
+そう あなたには
+届けるわ
+WOW!
+嫌いじゃない むしろ好きだから
+耐えられただけよ
+マイナスも含めて全部
+私だけがもらうわ
+oh I'll be back.必ず
+So wait for me.
+oh 君だけの 君だけの
+Special 特別な
+愛 I for you
+そう 君だけに
+KIMIDAKENI
+曖昧な言葉は
+None at this time
+oh 今は無し 今は無し
+最前線から今 伝えるわ
+そう あなたには
+届けるわ
+WOW!
+```
